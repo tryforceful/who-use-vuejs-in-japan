@@ -7,7 +7,6 @@ The list of companies who use Vue.js in Japan
 
 Name | Website | What we do with Vue.js
 ------------ | ------- | -------
-[Example](http://example.com) | http://example.com | E-commerce Site
 [GNEX ltd.](https://globalnet-ex.com) | https://globalnet-ex.com | [Push7](https://push7.jp/) (SaaS web push service) Web Site and Document on Nuxt.js, [CartEngine](https://cartengine.jp/) (E-Commerce support system) SPA Dashboard on Vue.
 [Minkore](https://minkore.funa.in.net) | https://minkore.funa.in.net | Migrating to Vue.js + Firebase SPA
 [Nagisa-inc](https://nagisa-inc.jp) | https://nagisa-inc.jp | [Manga ZERO](https://manga-zero.coroco3.com) (SPA + SSR), [UPTOON](https://uptoon.js) (SPA), Digital comic services.
@@ -32,6 +31,7 @@ Name | Website | What we do with Vue.js
 [TechBowl](https://techbowl.co.jp) | https://techbowl.co.jp | Our Service, "[TechTrain](https://techbowl.co.jp/techtrain)" is built with Nuxt.js. "TechTrain" is a community and service for engineers and developers.
 [HiCustomer](https://hicustomer.jp/) | https://hicustomer.jp/ | [HiCustomer](https://hicustomer.jp/) (Customer Success Management tool for SaaS) is built with Vue.js and Vuex.
 [Widsley](https://widsley.com/) | https://widsley.com/ | We build Sales oriented CRM and CTI using Vue.js and Nuxt.js on front and Laravel on backend. Our main product [ComDesk](https://comdesk.com/)
+[HENNGE]() | https://hennge.com/global/ | Certain products within [HENNGE One](https://hennge.com/global/service/one/), our core suite of cybersecurity defense tools, are built in Vue.js.
 
 ## Awesome who-use-**-in-japan
 
